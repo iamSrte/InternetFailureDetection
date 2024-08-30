@@ -1,0 +1,16 @@
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+
+.cache
+.DS_Store
+
+.idea/
+.vscode/
+
+*.swp
+*.swo
+
+compile_commands.json
